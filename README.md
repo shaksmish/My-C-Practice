@@ -7,18 +7,18 @@ Assortment of C Programs I wrote During my 3rd Semester **Data Structres and Alg
 
 The Repo has 5 folders listed below with details :
 ### 1. Data Structures and Algorithms
-Contains Programs which I wrote as a part of my course , It includes with their associated functions like *push , pop* etc 
+Contains Programs which I wrote as a part of my course , It includes with their associated functions like *push , pop* etc
 * Implementation of stack using array ,Link list and queue
 * Implementation of  linked list
 * Implementaion of queue
 * Implementaion of weighted and unweighted graph adjacency matrix
 * Binary Search Tree.
 
-### 2. Fun but Tough 
+### 2. Fun but Tough
 These are the programs that I wrote just for the heck of it and I am quite proud of some of them
 + **Balancer** : This program takes input string containing of  *parenthesis* ( closed and open )  and tells us whether the parenthesis are balanced or not. Uses *stack*.
 + **Alpha Count** (*Run this, it's Cool*) : Enter a text file in arguement and it will give you a horizontal histogram of the frequency of  alphabets . See code for demo.
-+ **Base Converter** : Enter a number in decimal and a target  base and output will be the converted number in target base. *Pretty Cool Huh!!* 
++ **Base Converter** : Enter a number in decimal and a target  base and output will be the converted number in target base. *Pretty Cool Huh!!*
 
 ### 3. K and R Solutions
 If you have not heard of K&R and you are a computer undergrad then you better go and google it .
@@ -34,5 +34,4 @@ ___
 #### *See code for instructions how to run and what ouput to expect.* ####
 
 
-
-
+##### this is edited by me
